@@ -11,7 +11,7 @@ project           =  "ursaminor"
 launch_template_name = "ladsoft-app"
 ami_id               = "ami-0f918f7e67a3323f0"
 instance_type        = "t2.micro"
-key_name             = "latheef-key"
+key_name             = "latheef-jenkins-key"
 root_volume_size = 20
 
 # tags = {
